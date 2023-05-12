@@ -10,3 +10,5 @@
 **slash** : member of anonymous and 5 years old <br>
 **duck** : this guy sucks <br>
 **usersniper** : has not contributed i think literally anything but he's chill <br>
+**sugarcookiesoda** : idr
+**exists** : fixed a lot of shit for us
