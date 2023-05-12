@@ -1,6 +1,5 @@
 # unblock us yourself!
-did your favorite unblocked game website just get blocked? Here's how to make an identical clone, no coding required!
----
+#### did your favorite unblocked game website just get blocked? Here's how to make an identical clone, no coding required!
 ### 0. Create a github account
 click this cool [hyperlink](https://github.com/signup) to teleport to the github signup page. just put in your email and stuff, you know the drill. <br> <br> 
 If you haven't done this yet, you might also need to know the following
@@ -50,4 +49,6 @@ this can take annoyingly long sometimes. with mesa.rip, I think in total it's ar
 ![image](https://github.com/Bored-Entertainment/.github/assets/75740323/4dbf7c02-3626-4d30-bd1d-329deab04303)
 #### pro-er tip
 ##### the node tree and the actions tab do not automatically update when a thing is done (im pretty sure). reload and double check
-if all goes according to plan, there will be a link shown on the deploy node that goes to your shiny new clone. way to go! :D
+if all goes according to plan, there will be a link shown on the deploy node that goes to your shiny new clone. way to go, boy!
+![image](https://github.com/Bored-Entertainment/.github/assets/75740323/28e86dc2-a3b5-4438-9b09-59d05e9c5b0c)
+
