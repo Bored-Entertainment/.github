@@ -8,7 +8,9 @@ If you haven't done this yet, you might also need to know the following
 ### 1. fork a repository
 some prerequisites are required, as not everything will work in the web.
 - the repository must contain an `Index.HTML` file
-![sorry if this doesnt load but that's on you man](https://github.com/Bored-Entertainment/.github/blob/main/2023_05_12_0l5_Kleki.png?raw=true) [//]: # (i forgot to rename the file before uploading and im on github web atm 😭)
+  
+![sorry if this doesnt load but that's on you man](https://github.com/Bored-Entertainment/.github/blob/main/2023_05_12_0l5_Kleki.png?raw=true)
+
 <br><br> OR <br><br>
 - the repository must contain an `Index.MD` file that looks like this 
 ![see above](https://github.com/Bored-Entertainment/.github/blob/main/markdownMD.png?raw=true)
