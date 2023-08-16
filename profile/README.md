@@ -6,7 +6,7 @@
 ### meet the team
 **pi** : founder and the only member who is not a minor, inactive due to college but not forgotten. <br>
 **grey** : half-life nerd. responsible for most of OG mesa <br>
-**dirt** : is exclusively responsible for mesa.rip, but also was one of the last members to join soooooooo<br>
+**dirt** : is exclusively responsible for mesa.rip, and like the raddest guy in the world<br>
 **slash** : member of anonymous and 5 years old <br>
 **duck** : pretty cool guy, one of the first few members, basically made schoolgrounds and helped a decent amount on mesacomplex, huge nerd and also an emo.<br>
 **usersniper** : has not contributed i think literally anything but he's chill <br>
