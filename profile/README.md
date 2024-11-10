@@ -7,7 +7,7 @@
 **pi** : founder and the only member who is not a minor, inactive due to college but not forgotten. <br>
 **grey** : half-life nerd. did a lot of OG mesa <br>
 **dirt** : is exclusively responsible for mesa.rip, and like the lamest guy in the world<br>
-**slash** : member of anonymous and is NOT 5 years old <br>
+**slash** : Collects consoles and is NOT 5 years old <br>
 **duck** : pretty cool guy, one of the first few members, basically made schoolgrounds and did a ton on OG mesa (1.6m lines of code added).<br>
 **usersniper** : has not contributed i think literally anything but he's chill <br>
 **exists** : fixed a lot of shit for us <br>
